@@ -27,6 +27,3 @@
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JoaoBoscoLuizJr&repo=Projetos_APP_Inventor)](https://github.com/JoaoBoscoLuizJr/Projetos_APP_Inventor)
 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JoaoBoscoLuizJr&repo=JoaoBoscoLuizJr)](https://github.com/JoaoBoscoLuizJr/JoaoBoscoLuizJr)
- 
-  
-##
