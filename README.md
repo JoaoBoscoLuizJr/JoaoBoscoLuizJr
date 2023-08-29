@@ -7,15 +7,15 @@
 ##
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/João-Jr/" target="_blank"><img src="src/images/logoLinkedIn.png" width="80px" height="20px" /></a>
-    <a href = "joaoboscoluizjunior404@gmail.com" target="_blank"><img src="src/images/logoGmail.png" width="80px" height="20px" /></a>
+  <a href="https://www.linkedin.com/in/victor-luan-silva/" target="_blank"><img src="../Portifolio_Site_JoaoBosco/scr/images/logo do linkdin.svg" width="100px" height="80px" /></a>
+    <a href = "joaoboscoluizjunior404@gmail.com" target="_blank"><img src="../Portifolio_Site_JoaoBosco/scr/images/logo do gmail.svg" width="100px" height="80px" /></a>
+    <a href = "https://www.instagram.com/joaoboscojr_" target="_blank"><img src="../Portifolio_Site_JoaoBosco/scr/images/logo do insta.svg"width="100px" height="80px" />
 </div>
 
 ##
 
-<div align="center">
- 
-  <a href="https://github.com/JoaoBoscoLuizJr" target="_blank">
+<div>
+   <a href="https://github.com/victorluansilva" target="_blank">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoBoscoLuizJr&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   </a>
 </div>
@@ -26,10 +26,7 @@
 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JoaoBoscoLuizJr&repo=Projetos_APP_Inventor)](https://github.com/JoaoBoscoLuizJr/Projetos_APP_Inventor)
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JoaoBoscoLuizJr&repo=Livros)](https://github.com/JoaoBoscoLuizJr/Livros)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JoaoBoscoLuizJr&repo=JoaoBoscoLuizJr)](https://github.com/JoaoBoscoLuizJr/JoaoBoscoLuizJr)
  
   
 ##
-
- ![Snake animation](https://github.com/JoaoBoscoLuizJr/JoaoBoscoLuizJr/blob/output/github-contribution-grid-snake.svg)
-:school:
