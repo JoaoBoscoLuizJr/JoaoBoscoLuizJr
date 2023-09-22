@@ -7,9 +7,9 @@
 ##
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/joao-bosco-luiz-junior-83592528a/" target="_blank"><img src="../JoaoBoscoLuizJr/JoaoBoscoLuizJr.github.io/scr/images/logo do linkdin.svg" width="100px" height="80px" /></a>
-    <a href = "joaoboscoluizjunior404@gmail.com" target="_blank"><img src="../JoaoBoscoLuizJr/JoaoBoscoLuizJr.github.io/scr/images/logo do gmail.svg" width="100px" height="80px" /></a>
-    <a href = "https://www.instagram.com/joaoboscojr_" target="_blank"><img src="../JoaoBoscoLuizJr/JoaoBoscoLuizJr.github.io/scr/images/logo do insta.svg"width="100px" height="80px" />
+  <a href="https://www.linkedin.com/in/joao-bosco-luiz-junior-83592528a/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/49/49408.png" width="100px" height="80px" /></a>
+    <a href = "joaoboscoluizjunior404@gmail.com" target="_blank"><img src="https://www.imagensempng.com.br/wp-content/uploads/2023/05/34-4.png" width="100px" height="80px" /></a>
+    <a href = "https://www.instagram.com/joaoboscojr_" target="_blank"><img src="https://freelogopng.com/images/all_img/1658587162instagram-logo-png-hd.png"width="100px" height="80px" />
 </div>
 
 ##
