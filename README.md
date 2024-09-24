@@ -4,7 +4,8 @@
 
 #### :arrow_forward: Living at **São Gonçalo do Rio Abaixo** 
 - 💞️ I’m looking to collaborate on React/Node OpenSource projects
-- 📫 How to reach me 
+- 📫 How to reach me by personal e-mail joaoboscoluizjunior404@gmail.com
+- ⚡ Fun fact: kangaroos can't walk backwards! They have large hind legs and a strong tail that prevent them from moving in reverse.
 
 ##
 
